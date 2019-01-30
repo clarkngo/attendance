@@ -1,4 +1,4 @@
-# Welcome Class CS 547 Secure Systems and Programs
+# Welcome Class CS 547 Secure Systems and Programs 
 
 We are going to check our attendance today with the use of GitHub repository.
 Failure to add a checkmark to your name means you are absent today =).
