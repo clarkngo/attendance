@@ -5,31 +5,31 @@ Failure to add a checkmark to your name means you are absent today =).
 
 To add a checkmark, replace the [_] with [x] inside the README.md file
 
-- [x] Chung, Sam
+- [ ] Chung, Sam
 
 - [ ] Patel, Janki
 - [x] Chuaphan, Apiwat
-- [ ] Kim, Min Sup
-- [ ] Phan, Dat
+- [x] Kim, Min Sup
+- [x] Phan, Dat
 - [X] Patel, Bindi
 - [x] Pande, Sayalee Sanjay
 - [ ] Ruan, Jianwei
 - [x] Tran, Tuan Khai
 - [ ] Agarwal, Richa
-- [ ] Liu, Jianting
+- [x] Liu, Jianting
 - [ ] Xing, Jianhao
 - [x] Dasary, Vineeth Rakesh
 - [ ] Bui, Thinh
-- [ ] Ali, Rohan
+- [x] Ali, Rohan
 - [x] Chinnusami, Chithiraikkayalvizhi
 - [ ] Ngo, Clark Jason
 - [x] Cheng, Yuge
 - [x] Kmail, Ahmed H
 - [x] He, Weichao
-- [ ] Wang, Yuliang
-- [ ] Yang, Jianchen
-- [ ] Wu, Shang
-- [ ] Liu, ZhiHao
+- [x] Wang, Yuliang
+- [x] Yang, Jianchen
+- [x] Wu, Shang
+- [x] Liu, ZhiHao
 - [ ] Wang, Peng
 - [x] Chen, Kevin Kuanting
 - [x] Vaidyanathan, Amrutha
