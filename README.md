@@ -7,7 +7,7 @@ To add a checkmark, replace the [_] with [x] inside the README.md file
 
 - [ ] Chung, Sam
 
-- [ ] Patel, Janki
+- [x] Patel, Janki
 - [x] Chuaphan, Apiwat
 - [x] Kim, Min Sup
 - [x] Phan, Dat
@@ -15,7 +15,7 @@ To add a checkmark, replace the [_] with [x] inside the README.md file
 - [x] Pande, Sayalee Sanjay
 - [ ] Ruan, Jianwei
 - [x] Tran, Tuan Khai
-- [ ] Agarwal, Richa
+- [x] Agarwal, Richa
 - [x] Liu, Jianting
 - [x] Xing, Jianhao
 - [x] Dasary, Vineeth Rakesh
