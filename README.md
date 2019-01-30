@@ -32,6 +32,6 @@ To add a checkmark, replace the [_] with [x] inside the README.md file
 - [x] Liu, ZhiHao
 - [ ] Wang, Peng
 - [x] Chen, Kevin Kuanting
-- [x] Vaidyanathan, Amrutha
+- [xx] Vaidyanathan, Amrutha
 - [x] Ren, Junxin
 - [X] Nguyen, Minh
