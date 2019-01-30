@@ -26,7 +26,7 @@ To add a checkmark, replace the [_] with [x] inside the README.md file
 - [x] Cheng, Yuge
 - [x] Kmail, Ahmed H
 - [ ] He, Weichao
-- [ ] Wang, Yuliang
+- [x] Wang, Yuliang
 - [x] Yang, Jianchen
 - [x] Wu, Shang
 - [x] Liu, ZhiHao
