@@ -17,9 +17,9 @@ To add a checkmark, replace the [_] with [x] inside the README.md file
 - [x] Tran, Tuan Khai
 - [ ] Agarwal, Richa
 - [x] Liu, Jianting
-- [ ] Xing, Jianhao
+- [x] Xing, Jianhao
 - [x] Dasary, Vineeth Rakesh
-- [ ] Bui, Thinh
+- [x] Bui, Thinh
 - [x] Ali, Rohan
 - [x] Chinnusami, Chithiraikkayalvizhi
 - [ ] Ngo, Clark Jason
