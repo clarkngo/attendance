@@ -9,8 +9,8 @@ To add a checkmark, replace the [_] with [x] inside the README.md file
 
 - [ ] Patel, Janki
 - [x] Chuaphan, Apiwat
-- [ ] Kim, Min Sup
-- [ ] Phan, Dat
+- [x] Kim, Min Sup
+- [x] Phan, Dat
 - [X] Patel, Bindi
 - [x] Pande, Sayalee Sanjay
 - [ ] Ruan, Jianwei
