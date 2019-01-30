@@ -18,14 +18,14 @@ To add a checkmark, replace the [_] with [x] inside the README.md file
 - [ ] Agarwal, Richa
 - [ ] Liu, Jianting
 - [ ] Xing, Jianhao
-- [ ] Dasary, Vineeth Rakesh
+- [x] Dasary, Vineeth Rakesh
 - [ ] Bui, Thinh
 - [ ] Ali, Rohan
 - [x] Chinnusami, Chithiraikkayalvizhi
 - [ ] Ngo, Clark Jason
 - [x] Cheng, Yuge
 - [x] Kmail, Ahmed H
-- [ ] He, Weichao
+- [x] He, Weichao
 - [ ] Wang, Yuliang
 - [ ] Yang, Jianchen
 - [ ] Wu, Shang
